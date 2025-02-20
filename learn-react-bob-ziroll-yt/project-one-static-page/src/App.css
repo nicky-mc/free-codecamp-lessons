@@ -1,10 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: raleway;
+}
 h1 {
   color: white;
   text-align: center;
   text-shadow: 2px 2px 4px black;
   font-size: 10em;
-  animation: fadeIn 2s ease-in-out infinite;
+  animation: fadeIn 8s ease-in-out infinite;
   text-decoration: underline;
+  border: 2px solid white;
 }
 
 @keyframes fadeIn {
@@ -27,4 +34,81 @@ h2 {
   text-align: center;
   text-shadow: 2px 2px 4px black;
   font-size: 3em;
+}
+p {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+  font-size: 2em;
+}
+.image-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.image-content img {
+  max-width: 100%;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-content img:hover {
+  transform: scale(1.1);
+}
+
+.popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.popup img {
+  width: 100%;
+  height: auto;
+}
+
+.popup.active {
+  display: block;
+}
+
+.popup .close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: white;
+  font-size: 2em;
+  cursor: pointer;
+}
+.reactLogo {
+  text-align: center; /* Center the image horizontally */
+}
+
+.logoImage {
+  width: 200px; /* Set the desired width */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 100%; /* Ensure it doesn't overflow the container */
+}
+.imperative {
+  color: rgb(246, 221, 221);
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+  font-size: 3.5em;
+  text-decoration: underline;
+}
+.declarative {
+  color: rgb(246, 221, 221);
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+  font-size: 3.5em;
+  text-decoration: underline;
 }
