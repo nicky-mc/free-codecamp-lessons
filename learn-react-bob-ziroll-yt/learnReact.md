@@ -1,5 +1,5 @@
   **Learn React & Practice Projects - Youtube - freecode camp :**
-    
+   - full copyright to FreeCodeCamp
 
 [](https://www.youtube.com/watch?v=x4rFhThSX04&t=63s)[Learn React JS - Full Beginner’s Tutorial (2024) & Practice Projects - Free Codecamp.org](https://www.youtube.com/watch?v=x4rFhThSX04&t=63s)
 
@@ -9,6 +9,8 @@ in this folder I will be following a comprehensive React tutorial by freeCodeCam
 Although I've a good understanding of most concepts I find embedding the basics reinforces my skills and understanding.
 
 I'll be adding my own learning notes over time. (though these will be a bit behind the coding side of things) so that I have a record of my own understanding that makes sense to me as well as allowing others to use my notes to improve upon their own skills or to learn from start if that's where you are.
+
+Anywhere I've put my own spin on things on any of the projects I'll ensure to fully explain what I did and how it works and why I went "off piste" as it were/
 
 #### Key Takeaways
 
