@@ -1,6 +1,6 @@
 body {
     padding: 20px;
-    font-family: 'Raleway', sans-serif; /* Ensure the font-family is correctly specified */
+    font-family: 'Raleway'; 
     background: #27292c;
     color: white;
     text-align: center;
