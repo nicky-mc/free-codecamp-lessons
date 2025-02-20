@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #27292c;
+    font-family: raleway;
+    padding: 1em 0;
+    color: #61dafb;
+    border: solid 2px aqua;
+}
+h1 {
+   color: aquamarine;
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+    font-size: 3em;
+}
+.explainer {
+    color: #61dafb;
+    font-size: 1em;
+    margin-top: 20px;
+}
+.linkList {
+    list-style-type:none;
+    padding: 0;
+}
+
+.link {
+    display: inline;
+    margin: 0 1em;
+    list-style: none;
+}
+
+.a {
+    color: aquamarine;
+    text-decoration: none;
+}
+a:visited {
+    color: aquamarine;
+}
+a:hover {
+    text-decoration: underline;
+}
+.reactLogo {
+    width: 100px;
+    height: auto;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+  }
+  

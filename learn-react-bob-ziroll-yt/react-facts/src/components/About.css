@@ -1,0 +1,21 @@
+body {
+    padding: 20px;
+    font-family: 'Raleway', sans-serif; /* Ensure the font-family is correctly specified */
+    background: #27292c;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    margin-top: 30px;
+    font-size: 4em;
+    color: #61dafb;
+}
+
+.about {
+    list-style-position: inside;
+    list-style-type: square;
+    padding: 0;
+    font-size: 1.5em;
+    color: rgb(174, 217, 217);
+}
