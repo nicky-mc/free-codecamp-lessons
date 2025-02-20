@@ -25,3 +25,124 @@ Anywhere I've put my own spin on things on any of the projects I'll ensure to fu
 *   **Bonus Resources:** A section on helpful VS Code extensions supports developers in their React journey.
     
 *   **Focus on Accessibility:** The tutorial integrates best practices for making web applications accessible to all users, including those with disabilities.
+
+#### Video overview
+
+*   **Instructor**: Bob Ziroll
+    
+*   **Platform**: freeCodeCamp.org
+    
+*   **Format**: Video tutorial with interactive coding challenges and projects.
+    
+*   **Content**: Over 170 challenges and 6 projects.
+    
+
+Structure
+---------
+
+1.  **React Basics**
+    
+2.  **Travel Journal Project**
+    
+3.  **Chef Claude Project**
+    
+4.  **Meme Generator Project**
+    
+5.  **Tenzies Project**
+    
+6.  **Assembly Endgame Project**
+    
+7.  **Bonus Section** (React and VS Code extensions)
+    
+
+Course Emphasis
+---------------
+
+*   **Active Learning**: Focus on practical application to avoid "tutorial hell."
+    
+*   **Encouragement**: Emphasizes curiosity and learning from mistakes.
+    
+
+Section Breakdown
+-----------------
+
+### Section 1: React Basics
+
+*   **Setup**: Projects can be initialized locally with Vite or in Scrimba.
+    
+*   **Key Concepts**:
+    
+    *   React elements
+        
+    *   JSX
+        
+    *   Custom components
+        
+    *   Styling
+        
+    *   Project organization
+        
+*   **Example Project**: ReactFacts.
+    
+
+### Section 2: Travel Journal Project
+
+*   **Focus**: Reusable components and props.
+    
+*   **Key Topics**:
+    
+    *   Props and destructuring
+        
+    *   Different prop types
+        
+    *   Rendering arrays of components.
+        
+
+### Section 3: Chef Claude Project
+
+*   **Objective**: Build an interactive recipe application.
+    
+*   **Key Concepts**:
+    
+    *   Event listeners
+        
+    *   useState for state management (arrays and objects)
+        
+    *   Conditional rendering
+        
+    *   Fetching recipes based on user input.
+        
+
+### Section 4: Meme Generator Project
+
+*   **Focus**: Controlled components and data fetching.
+    
+*   **Key Topics**:
+    
+    *   useEffect() for data management
+        
+    *   Functional programming principles.
+        
+
+### Section 5 & 6: Capstone Projects
+
+*   **Tenzies**: A dice game.
+    
+*   **Assembly Endgame**: A hangman-style game.
+    
+*   **Purpose**: Reinforce all concepts learned with comprehensive practice.
+    
+
+### Bonus Section
+
+*   **Tools**: Recommendations for VS Code and Chrome extensions to enhance React development.
+    
+*   **Extensions Recommended**:
+    
+    *   ES7+ React/Redux/React Native snippets
+        
+    *   Auto-import extension
+        
+    *   React Developer Tools
+        
+*   **Demonstration**: Practical use of these tools to improve workflow and debugging.
